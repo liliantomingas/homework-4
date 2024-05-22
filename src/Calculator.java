@@ -5,8 +5,5 @@ public class Calculator {
 
     public boolean isGreater(double paramFirst, double paramSecond){
         return paramFirst > paramSecond;
-
-
-
     }
 }
